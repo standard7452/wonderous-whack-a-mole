@@ -6,7 +6,7 @@ Molybdenum is an initiative focused on analyzing publicly available content to a
 
 ## Current Progress
 
-- Data Scraping: Development of a script to scrape Wikipedia pages and capture relevant case information.
+- Data Scraping: Development of a script to scrape public sources and capture relevant case information while maintaing adherence to strict ethical standards.
 - Data Organization: Designing a schema to store and organize the scraped data systematically.
 - Analysis Tools: Exploring potential tools and methods for data analysis to uncover new leads.
 
